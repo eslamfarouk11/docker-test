@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 4000
 
 # Set the command to run when the container starts
-CMD ["npm", "start"]
+CMD ["npm", "start"]ر
